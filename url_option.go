@@ -1,4 +1,4 @@
-package requester
+package httprequester
 
 type URLOption struct {
 	url string

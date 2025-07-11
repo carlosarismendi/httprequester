@@ -1,4 +1,4 @@
-package requester
+package httprequester
 
 type HeaderOption struct {
 	key   string

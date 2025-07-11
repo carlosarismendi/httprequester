@@ -1,4 +1,4 @@
-package requester
+package httprequester
 
 import (
 	"github.com/stretchr/testify/require"
